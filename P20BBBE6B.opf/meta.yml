@@ -1,0 +1,52 @@
+id: P20BBBE6B
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA2DB4570
+  instance_id: http://purl.bdrc.io/resource/IE2DB4570
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ（དཔེ་བསྡུར་མ）། ཀུན་དགའ་རྒྱལ་མཚན།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - sa jia wu zu quan ji dui kan ben
+  author: http://purl.bdrc.io/resource/P1056
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    4fca1679f3754db28079552a0a0d2ffb:
+      title: པོད ༤་གསུང་འབུམ（དཔེ་བསྡུར་མ）། ཀུན་དགའ་རྒྱལ་མཚན།
+      volume_number: 4
+      base_file: UT2DB4570_I1PD34022_0000.txt
+      reference: http://purl.bdrc.io/resource/VL1A784AD2704F9D51
+      image_group: I1PD34022
+      quality: Low
+    ec482ba439e145f2891324a7dbd49771:
+      title: པོད ༣་གསུང་འབུམ（དཔེ་བསྡུར་མ）། ཀུན་དགའ་རྒྱལ་མཚན།
+      volume_number: 3
+      base_file: UT2DB4570_I1PD34021_0000.txt
+      reference: http://purl.bdrc.io/resource/VLDD91BCBB6B92AC71
+      image_group: I1PD34021
+      quality: Low
+    90df3235fbed42c9bec686d4e7807145:
+      title: པོད ༢་གསུང་འབུམ（དཔེ་བསྡུར་མ）། ཀུན་དགའ་རྒྱལ་མཚན།
+      volume_number: 2
+      base_file: UT2DB4570_I1PD34020_0000.txt
+      reference: http://purl.bdrc.io/resource/VL3A6A6BE692393332
+      image_group: I1PD34020
+      quality: Low
+    d2de15556f7f41bf91291fe07721a4ab:
+      title: པོད ༡་གསུང་འབུམ（དཔེ་བསྡུར་མ）། ཀུན་དགའ་རྒྱལ་མཚན།
+      volume_number: 1
+      base_file: UT2DB4570_I1PD34019_0000.txt
+      reference: http://purl.bdrc.io/resource/VL55D35F5EBE9251D9
+      image_group: I1PD34019
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W2DB4570
+  - http://purl.bdrc.io/resource/MW2DB4570
+  ocr_software: Namsel
+created_at: '2021-12-22T11:14:16.433984'
+last_modified_at: '2021-12-22T11:14:16.433991'
